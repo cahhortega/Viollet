@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "73C4C50D-F04B-41B9-A01F-B8509A552227"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CD414D7-1C2B-4D75-AFDD-E8FE29059F01"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tela Explorar/FraseView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "frases"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "2CD414D7-1C2B-4D75-AFDD-E8FE29059F01 - 2ade6406e8a9da95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bailarina1.FraseView.init(frame: __C.CGRect) -&gt; Bailarina1.FraseView"
+                  moduleName = "Bailarina1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carolinaortega/git/Bailarina1/Tela%20Explorar/FraseView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1416">
+               </Location>
+               <Location
+                  uuid = "2CD414D7-1C2B-4D75-AFDD-E8FE29059F01 - c7b79e59d722aaf1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bailarina1.FraseView.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Bailarina1.FraseView&gt;"
+                  moduleName = "Bailarina1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carolinaortega/git/Bailarina1/Tela%20Explorar/FraseView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1376">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDEAEFA9-AFBC-4D71-BC41-6803F7DE9418"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tela Explorar/FraseView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "frases"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "EDEAEFA9-AFBC-4D71-BC41-6803F7DE9418 - 2ade6406e8a9da95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bailarina1.FraseView.init(frame: __C.CGRect) -&gt; Bailarina1.FraseView"
+                  moduleName = "Bailarina1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carolinaortega/git/Bailarina1/Tela%20Explorar/FraseView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1416">
+               </Location>
+               <Location
+                  uuid = "EDEAEFA9-AFBC-4D71-BC41-6803F7DE9418 - c7b79e59d722aaf1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bailarina1.FraseView.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Bailarina1.FraseView&gt;"
+                  moduleName = "Bailarina1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carolinaortega/git/Bailarina1/Tela%20Explorar/FraseView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1376">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E44007B1-4BD4-4DD5-986D-57C845C96600"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tela Explorar/FraseView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "frases"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E44007B1-4BD4-4DD5-986D-57C845C96600 - 2ade6406e8a9da95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bailarina1.FraseView.init(frame: __C.CGRect) -&gt; Bailarina1.FraseView"
+                  moduleName = "Bailarina1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carolinaortega/git/Bailarina1/Tela%20Explorar/FraseView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1416">
+               </Location>
+               <Location
+                  uuid = "E44007B1-4BD4-4DD5-986D-57C845C96600 - c7b79e59d722aaf1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bailarina1.FraseView.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Bailarina1.FraseView&gt;"
+                  moduleName = "Bailarina1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carolinaortega/git/Bailarina1/Tela%20Explorar/FraseView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1376">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C987546-FFBA-4C53-886C-750E0F5AD18C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tela Explorar/FraseView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "frases"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "4C987546-FFBA-4C53-886C-750E0F5AD18C - 2ade6406e8a9da95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bailarina1.FraseView.init(frame: __C.CGRect) -&gt; Bailarina1.FraseView"
+                  moduleName = "Bailarina1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carolinaortega/git/Bailarina1/Tela%20Explorar/FraseView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1416">
+               </Location>
+               <Location
+                  uuid = "4C987546-FFBA-4C53-886C-750E0F5AD18C - c7b79e59d722aaf1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bailarina1.FraseView.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Bailarina1.FraseView&gt;"
+                  moduleName = "Bailarina1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carolinaortega/git/Bailarina1/Tela%20Explorar/FraseView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1376">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "661BDAA0-22C8-4B6B-922A-FD068370928C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tela Explorar/FraseView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "frases"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "661BDAA0-22C8-4B6B-922A-FD068370928C - 2ade6406e8a9da95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bailarina1.FraseView.init(frame: __C.CGRect) -&gt; Bailarina1.FraseView"
+                  moduleName = "Bailarina1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carolinaortega/git/Bailarina1/Tela%20Explorar/FraseView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1416">
+               </Location>
+               <Location
+                  uuid = "661BDAA0-22C8-4B6B-922A-FD068370928C - c7b79e59d722aaf1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bailarina1.FraseView.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Bailarina1.FraseView&gt;"
+                  moduleName = "Bailarina1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carolinaortega/git/Bailarina1/Tela%20Explorar/FraseView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1376">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6AD898D0-7C15-4818-8991-CAF09C8C550E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tela Explorar/FraseView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "frases"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "6AD898D0-7C15-4818-8991-CAF09C8C550E - 2ade6406e8a9da95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bailarina1.FraseView.init(frame: __C.CGRect) -&gt; Bailarina1.FraseView"
+                  moduleName = "Bailarina1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carolinaortega/git/Bailarina1/Tela%20Explorar/FraseView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1416">
+               </Location>
+               <Location
+                  uuid = "6AD898D0-7C15-4818-8991-CAF09C8C550E - c7b79e59d722aaf1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bailarina1.FraseView.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Bailarina1.FraseView&gt;"
+                  moduleName = "Bailarina1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carolinaortega/git/Bailarina1/Tela%20Explorar/FraseView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1376">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
